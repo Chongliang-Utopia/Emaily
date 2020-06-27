@@ -9,8 +9,8 @@ This application allows users to send survey emails and collect feedback from th
   - One cannot survey emails if they do not have enough credits
 
 - **Manage design posts with basic functionalities:**
-  - Create, edit, review survey form
-  - Send survey emails to prvided email address
+  - Create, edit, validate, review survey form
+  - Send survey emails to prvided recipients
   - Collect feedback from email recipients
 
 - **Payment:**
